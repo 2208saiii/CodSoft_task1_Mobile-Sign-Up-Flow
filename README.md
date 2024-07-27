@@ -18,7 +18,7 @@ Welcome to the Mobile Sign-Up Project! This repository contains a Figma design f
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/mobile-signup-project.git
+   git clone https://github.com/2208saiii/Mobile-Sign-Up-Flow.git
    ```
 
 2. **Open in Figma:**
